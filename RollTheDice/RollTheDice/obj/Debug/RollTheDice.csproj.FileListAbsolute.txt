@@ -1,0 +1,7 @@
+C:\Users\Αλευρά Γεωργία\source\repos\RollTheDice\RollTheDice\bin\Debug\RollTheDice.exe.config
+C:\Users\Αλευρά Γεωργία\source\repos\RollTheDice\RollTheDice\bin\Debug\RollTheDice.exe
+C:\Users\Αλευρά Γεωργία\source\repos\RollTheDice\RollTheDice\bin\Debug\RollTheDice.pdb
+C:\Users\Αλευρά Γεωργία\source\repos\RollTheDice\RollTheDice\obj\Debug\RollTheDice.csprojAssemblyReference.cache
+C:\Users\Αλευρά Γεωργία\source\repos\RollTheDice\RollTheDice\obj\Debug\RollTheDice.csproj.CoreCompileInputs.cache
+C:\Users\Αλευρά Γεωργία\source\repos\RollTheDice\RollTheDice\obj\Debug\RollTheDice.exe
+C:\Users\Αλευρά Γεωργία\source\repos\RollTheDice\RollTheDice\obj\Debug\RollTheDice.pdb
